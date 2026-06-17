@@ -144,7 +144,7 @@ window.projectsData = {
             p6: { 
                 title: "Hydroponic Cart", 
                 desc: "Prototyping", 
-                image: "assets/images/PIE_assets/PIE_droponics Hero page.png", 
+                image: "assets/images/PIE_assets/PIE_droponics Hero Page.png", 
                 subtitle: "Automated Vertical Hydroponics Cultivation System",
                 sections: [
                 {type: "text", header: "overview:", content: "Worked with a multidisciplinary team of five engineers to design and build a portable autonomous hydroponic platform funded through the Weissman Foundry Grant. The system monitored environmental conditions and automatically regulated irrigation, nutrient delivery, and lighting using sensor feedback.",},
@@ -251,19 +251,19 @@ window.projectsData = {
                 subtitle: "DFMA Optimization & CNC Mold Machining of a Toy Spinner",
                 sections: [
                     
-                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide2.png" 
+                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide2.PNG" 
                     },
-                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide3.png"
+                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide3.PNG"
                     },
-                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide4.png"
+                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide4.PNG"
                     },
-                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide5.png"
+                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide5.PNG"
                     },
-                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide6.png"
+                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide6.PNG"
                     },
-                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide7.png"
+                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide7.PNG"
                     },
-                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide8.png"
+                    { type: "image", path: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide8.PNG"
                     }
                     
 
