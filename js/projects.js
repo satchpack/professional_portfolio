@@ -247,7 +247,7 @@ window.projectsData = {
             p9: { 
                 title: "Injection Molded Beyblade", 
                 desc: "Manufacturing", 
-                image: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide1.png", 
+                image: "assets/images/DFM/Beyblade_Mold_Presentation_v3/Slide1.PNG", 
                 subtitle: "DFMA Optimization & CNC Mold Machining of a Toy Spinner",
                 sections: [
                     
