@@ -152,12 +152,12 @@ window.projectsData = {
                 {type: "grid-3", paths: [
                     "assets/images/PIE_assets/PIE_droponics_Circuit_Board.png",
                     "assets/images/PIE_assets/PIE_droponics_Piping.png",
-                    "assets/images/PIE_assets/PIE_droponics Top Board.png"
+                    "assets/images/PIE_assets/PIE_droponics_Top_Board.png"
                 ]},
                 {type: "text", header: "Challenges:", content: "A primary engineering challenge was protecting electronics and sensors from water exposure while maintaining accessibility and long-term durability. Material and enclosure designs were evaluated based on cost, availability, environmental compatibility, and ease of fabrication, resulting in the use of PVC and vinyl gutter systems for the water delivery architecture.",},
                 {type: "text", header: "Results:", content: "The final system successfully completed a one-month autonomous test run and was selected for continued development through additional Weissman Foundry funding."},
                 
-                {type: "image", path: "assets/images/PIE_assets/PIE_dro Final.png"},
+                {type: "image", path: "assets/images/PIE_assets/PIE_dro_Final.png"},
                 
             
             
