@@ -150,9 +150,9 @@ window.projectsData = {
                 {type: "text", header: "overview:", content: "Worked with a multidisciplinary team of five engineers to design and build a portable autonomous hydroponic platform funded through the Weissman Foundry Grant. The system monitored environmental conditions and automatically regulated irrigation, nutrient delivery, and lighting using sensor feedback.",},
                 {type: "text", header: "My Contributions:", content: "I designed mechanical enclosures and structural components in SolidWorks, analyzed water flow and irrigation performance using MATLAB, selected waterproof materials, and supported system integration and testing. Components were fabricated using 3D printing and vinyl-cutting processes, with designs iterated to balance waterproofing, manufacturability, and structural stability.",},
                 {type: "grid-3", paths: [
-                    "assets/images/PIE_assets/PIE_droponics Circuit Board.png",
-                    "assets/images/PIE_assets/PIE_droponics Piping.png",
-                    "assets/images/PIE_assets/PIE_droponics Top Board.png"
+                    "assets/images/PIE_assets/PIE_droponics_Circuit_Board.png",
+                    "assets/images/PIE_assets/PIE_droponics_Piping.png",
+                    "assets/images/PIE_assets/PIE_droponics_Top_Board.png"
                 ]},
                 {type: "text", header: "Challenges:", content: "A primary engineering challenge was protecting electronics and sensors from water exposure while maintaining accessibility and long-term durability. Material and enclosure designs were evaluated based on cost, availability, environmental compatibility, and ease of fabrication, resulting in the use of PVC and vinyl gutter systems for the water delivery architecture.",},
                 {type: "text", header: "Results:", content: "The final system successfully completed a one-month autonomous test run and was selected for continued development through additional Weissman Foundry funding."},
