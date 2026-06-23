@@ -90,10 +90,10 @@ window.projectsData = {
                 title: "Formula Electric", 
                 desc: "Founded Aero Subteam", 
                 image: "assets/images/Olin Formula Logo.png", 
-                subtitle: "High-Voltage Packaging & Drivetrain Design for Olin Formula Electric",
+                subtitle: "Founding Member of Olin Formula Electric",
                 sections: [
                 {type: "text", header: "Overview:", content: "As a founding member of Olin Electric Motorsports' first aerodynamics team, I helped establish the team's aerodynamic development process while designing, analyzing, and fabricating performance-focused components for a Formula-style electric race car. The team's goal was to increase vehicle downforce while maintaining manufacturability and exploring sustainable composite materials."},
-                {type: "text", header: "Skills:", content: "I used CFD simulations in ANSYS Fluent to evaluate front-wing and rear-diffuser concepts, analyze airflow behavior, and verify aerodynamic performance before fabrication. These simulations helped guide design decisions and provided confidence that proposed geometries would generate meaningful aerodynamic effects on the vehicle."},
+                
                 {type: "grid-image", paths: [
                     "assets/images/Formula/FormulaCFD.avif",
                     "assets/images/Formula/FormulaCAD.png"
