@@ -5,7 +5,7 @@ window.projectsData = {
                 desc: "Capstone", 
                 image: "assets/images/AmazonRobotics.jpg", 
                 nda: true, 
-                subtitle: "Robotic Systems Engineering & Fixture Design Co-op",
+                subtitle: "Robotic Hardware Co-op",
                 sections: [
                 { type: "text", header: "overview", content: "Selected as one of five senior engineers to participate in Olin College's year-long SCOPE program in collaboration with Amazon Robotics. The project focused on identifying cost-effective perception solutions for autonomous outdoor robotic systems, balancing sensing performance, environmental robustness, and overall deployment cost. ", },
                 { type: "image", path: "assets/images/AmazonRobo/AlgorithmOvrview.png" },
@@ -90,7 +90,7 @@ window.projectsData = {
                 title: "Formula Electric", 
                 desc: "Founded Aero Subteam", 
                 image: "assets/images/Olin Formula Logo.png", 
-                subtitle: "Founding Member of Olin Formula Electric",
+                subtitle: "Founding Member of Olin Formula Electric Aerodynamics Subteam",
                 sections: [
                 {type: "text", header: "Overview:", content: "As a founding member of Olin Electric Motorsports' first aerodynamics team, I helped establish the team's aerodynamic development process while designing, analyzing, and fabricating performance-focused components for a Formula-style electric race car. The team's goal was to increase vehicle downforce while maintaining manufacturability and exploring sustainable composite materials."},
                 
